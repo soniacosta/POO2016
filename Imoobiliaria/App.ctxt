@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.params=
+comment0.target=App()
+comment1.params=
+comment1.target=void\ main()
+comment10.params=ut
+comment10.target=void\ alterarEstado(Utilizador)
+comment11.params=ut
+comment11.target=void\ verConsultas(Utilizador)
+comment12.params=ut
+comment12.target=void\ inserirImovel(Utilizador)
+comment13.params=ut
+comment13.target=void\ verFavoritos(Utilizador)
+comment14.params=ut
+comment14.target=void\ marcarFavorito(Utilizador)
+comment15.params=
+comment15.target=void\ obterMapeamento()
+comment16.params=
+comment16.target=java.lang.String\ toStringId()
+comment2.params=
+comment2.target=void\ carregarDados()
+comment3.params=
+comment3.target=void\ menu1()
+comment4.params=u
+comment4.target=void\ menuReg(Utilizador)
+comment5.params=
+comment5.target=void\ limpaEcra()
+comment6.params=
+comment6.target=Utilizador\ criarUtilizador()
+comment7.params=
+comment7.target=Utilizador\ login()
+comment7.text=\ public\ static\ boolean\ ValidEmail(String\ mail)\ {\n\ \ \ \ \ \ \ \ \ \ \ String\ ePattern\ \=\ "^[a-zA-Z0-9.\!\#$%&'*+/\=?^_`{|}~-]+@((\\\\[[0-9]{1,3}\\\\.[0-9]{1,3}\\\\.[0-9]{1,3}\\\\.[0-9]{1,3}\\\\])|(([a-zA-Z\\\\-0-9]+\\\\.)+[a-zA-Z]{2,}))$";\n\ \ \ \ \ \ \ \ \ \ \ java.util.regex.Pattern\ p\ \=\ java.util.regex.Pattern.compile(ePattern);\n\ \ \ \ \ \ \ \ \ \ \ java.util.regex.Matcher\ m\ \=\ p.matcher(mail);\n\ \ \ \ \ \ \ \ \ \ \ return\ \!m.matches();\n}
+comment8.params=u
+comment8.target=void\ consultarTipo(Utilizador)
+comment9.params=u
+comment9.target=void\ consultarHabitaveis(Utilizador)
+numComments=17

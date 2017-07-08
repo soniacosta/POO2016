@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vendedor()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Vendedor\n
+comment1.params=e\ n\ p\ d\ m\ port\ h
+comment1.target=Vendedor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList,\ java.util.HashMap)
+comment1.text=\n\ \ construtor\ parametrizado\n
+comment2.params=e\ n\ p\ d\ m
+comment2.target=Vendedor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ construtor\ parametrizado\ novo\ utilizador\n
+comment3.params=v
+comment3.target=Vendedor(Vendedor)
+comment3.text=\n\ \ construtor\ copia\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getPortfolio()
+comment5.params=
+comment5.target=java.util.HashMap\ getHistorico()
+comment6.params=
+comment6.target=Vendedor\ clone()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=a
+comment8.target=boolean\ equals(Vendedor)
+comment9.params=y
+comment9.target=int\ sampleMethod(int)
+comment9.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+numComments=10

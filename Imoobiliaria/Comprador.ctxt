@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Comprador()
+comment0.text=\n\ \tconstrutor\ vazio\n
+comment1.params=e\ n\ p\ d\ m\ f
+comment1.target=Comprador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment1.text=\n\ \ construtor\ parametrizado\n
+comment2.params=e\ n\ p\ d\ m
+comment2.target=Comprador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ construtor\ parametrizado\ novo\ utilizador\n
+comment3.params=c
+comment3.target=Comprador(Comprador)
+comment3.text=\n\ \tconstrutor\ copia\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getFavorit()
+comment5.params=
+comment5.target=Comprador\ clone()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=a
+comment7.target=boolean\ equals(Comprador)
+numComments=8
